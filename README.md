@@ -39,10 +39,10 @@
 
 
 ## Screenshots
-![11]![Screenshot_1](https://user-images.githubusercontent.com/60564197/119906434-e4b39880-bf56-11eb-85d5-6c1dd995cbea.png)
+![Screenshot_1](https://user-images.githubusercontent.com/60564197/119906434-e4b39880-bf56-11eb-85d5-6c1dd995cbea.png)
 
 
-![javagame4](https://user-images.githubusercontent.com/60564197/119229148-35725e00-bb1f-11eb-9cad-251afdb75154.png)
+
 
 
 
@@ -66,7 +66,7 @@ Aby otworzyć projekt, potrzebujesz:
 
 ## Usage
 
-`      $id_patient= $_POST['id_patient2'];
+`$id_patient= $_POST['id_patient2'];
 
 $Name= $_POST['Name2'];
 
@@ -87,7 +87,7 @@ Jestem zaangażowany w następujące projekty.__
 ## Room for Improvement
 
 Room for improvement:
-- Dodaj funkcjonalność
+- Dodać funkcjonalność
 - Wyslać do hostingu 
 
 
