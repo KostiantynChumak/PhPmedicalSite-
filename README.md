@@ -66,7 +66,7 @@ Aby otworzyć projekt, potrzebujesz:
 
 ## Usage
 
-` $id_patient= $_POST['id_patient2'];
+`$id_patient= $_POST['id_patient2'];
 
  $Name= $_POST['Name2'];
 
@@ -77,7 +77,7 @@ Aby otworzyć projekt, potrzebujesz:
  $Price= $_POST['Price2'];
 
 
- mysqli_query($Connect_db, "UPDATE  {$Name}   SET  svobodnaa_li = 'занятая', pacient = '$Name_patient', price = '$Price'    WHERE  data = '{$id}'   LIMIT 1   ");  `
+ mysqli_query($Connect_db, "UPDATE  {$Name}   SET  svobodnaa_li = 'занятая', pacient = '$Name_patient', price = '$Price'    WHERE  data = '{$id}'   LIMIT 1   ");`
 
 
 ## Project Status
