@@ -108,7 +108,7 @@ Projekt powstał zrobiony dzięki lekcjom mgr Rafał Jółkowski.
  
 
    
-    + E-mail: kostiantynchumak@gmail.com
+E-mail: kostiantynchumak@gmail.com
 
 
 
